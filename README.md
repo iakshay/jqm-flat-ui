@@ -1,5 +1,5 @@
 #jQuery Mobile Flat UI Theme
-Based on [Flat Web User Interface Kit by Designmodo]([http://designmodo.com/flat-free/)
+Based on [Flat Web User Interface Kit by Designmodo](http://designmodo.com/flat-free/)
 
 *The theme is currently under development*
 
